@@ -1,8 +1,8 @@
-### Hi there 👋
+### Build
 
 #### blog
 
-![Blog Node CI](https://github.com/liuzhuoming23/blog/workflows/Blog%20Node%20CI/badge.svg)
+![Blog CI](https://github.com/liuzhuoming23/blog/workflows/Blog%20CI/badge.svg)
 
 <!--
 **liuzhuoming23/liuzhuoming23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
